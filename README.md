@@ -20,25 +20,25 @@ This repository is designed for students, researchers, and practitioners who wan
 ```
 mathematics-for-ml/
 │── linear_algebra/
-│   ├── vectors_and_matrices.md
-│   ├── eigenvalues_eigenvectors.md
+│   ├── vectors_and_matrices
+│   ├── eigenvalues_eigenvectors
 │   └── python_implementations/
 │
 │── calculus/
-│   ├── derivatives_gradients.md
-│   ├── multivariable_calculus.md
+│   ├── derivatives_gradients
+│   ├── multivariable_calculus
 │   └── optimization.md
 │
 │── probability_statistics/
-│   ├── probability_basics.md
-│   ├── distributions.md
-│   ├── bayes_theorem.md
-│   └── hypothesis_testing.md
+│   ├── probability_basics
+│   ├── distributions
+│   ├── bayes_theorem
+│   └── hypothesis_testing
 │
 │── advanced_topics/
-│   ├── information_theory.md
-│   ├── numerical_methods.md
-│   └── convex_optimization.md
+│   ├── information_theory
+│   ├── numerical_methods
+│   └── convex_optimization
 │
 │── projects/
 │   ├── linear_regression_from_scratch.ipynb
